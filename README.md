@@ -1,8 +1,10 @@
-# EXPEARTI - your trips budget manager
+![EXPEARTI](expearti_white.png)
+
+# ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ your trips budget manager
 
 The full-stack application for managing vacation budgets, trip expenses, and participant coordination. Built with NestJS backend, Next.js frontend, and Kubernetes-ready deployment infrastructure.
 
-![Budzetownik Logo](budzetownik.png)
+![Dashboard](budzetownik.png)
 
 ## Features
 
